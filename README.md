@@ -118,28 +118,6 @@ All data is **synthetic** and does **not represent real patients**.
 
 ---
 
-## 🎯 Project Value (for Recruiters)
-
-This case study highlights your ability to:
-
-- Analyze **realistic clinical datasets**  
-- Build **meaningful, insight-driven visualizations**  
-- Interpret healthcare data in a business/clinical context  
-- Communicate findings clearly for stakeholders  
-- Demonstrate domain understanding of chronic disease progression  
-- Apply SQL, Python, and BI tools to structured datasets  
-
----
-
-## 📌 Recommended Extensions (Future Work)
-
-- Patient-level forecasting (EDSS or relapse)  
-- Cohort clustering for phenotype identification  
-- Treatment effectiveness analysis  
-- Integration into an interactive dashboard with filters  
-
----
-
 ## 📫 Contact
 
 For questions or collaboration opportunities, feel free to reach out or explore my GitHub profile.
